@@ -1,5 +1,5 @@
 ## 🖼 Preview
-<img src="dashboard.png" height="1200px" width="500px" alt="dashboard img">
+<img src="dashboard.png" width="1200px" height="500px" alt="dashboard img">
 
 # 🔒 Crimes in India Dashboard
 An interactive dashboard created in Microsoft Excel to analyze crime trends across Indian cities. This project highlights crime distribution, police deployment, and weapon usage, using intuitive visualizations.
